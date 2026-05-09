@@ -1,0 +1,100 @@
+/* CSS Start */
+
+body{ color: #777777;
+    font-family: sans-serif;
+    line-height: 26px;
+
+}
+.welcome_left{
+   
+width: 50%;
+float: left;
+
+}
+.welcome_right{
+    width: 50%;
+    float: right;
+}
+.Purpal{
+    color: #8845f4;
+}
+h1{
+    font-size: 40px;
+}
+.primary_btn{
+    color: whitesmoke;
+    background: #8845f4;
+    padding: 13px 42px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+
+}
+.primary_btn:hover{
+background-color: whitesmoke;
+color: #8845f4;
+border: 1px solid #8845f4;
+
+}
+.IMG{
+width: 50%;
+padding-left: 25%;
+
+}
+.container{
+padding-left: 5%;
+display: inline-block;
+
+}
+
+.dream_left{
+    width: 50%;
+    float: left;
+}
+.dream_right{
+    width: 50%;
+    float: right;
+}
+.dream_image{
+    width: 50%;
+    padding-left: 25%;
+}
+
+.exprience{
+    margin: 30px;
+    padding: 30px;
+    background-color: hsl(207, 100%, 84%);
+border-radius: 20px;
+}
+.exprience_wrapper{
+    border-left: 1px solid #777777;
+    padding-left: 10px;
+}
+.exprience_content{
+    padding-top: 30px;
+}
+.exprience_content h4{
+    color: #8845f4;
+    font-weight: 300;
+}
+.footer{
+    font-weight: 300;
+    color: #777777;
+    text-align: center;
+}
+.next{
+    color: rgb(253, 253, 253);
+    background: #000000;
+    padding: 13px 42px;
+    border-radius: 20px;
+    outline: none;
+    border: none;
+    cursor: pointer;
+}
+.next:hover{
+background-color: rgb(255, 255, 255);
+color: #000000;
+border: 1px solid #000000;
+
+}
