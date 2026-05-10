@@ -79,6 +79,8 @@ border-radius: 20px;
     font-weight: 300;
 }
 .footer{
+    padding:50px;
+    background-color: goldenrod;
     font-weight: 300;
     color: #777777;
     text-align: center;
